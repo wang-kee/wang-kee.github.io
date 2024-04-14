@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a PhD student in Machine Learning at href='[EPFL](https://www.epfl.ch/en/)'>
 
 profile:
   align: right
@@ -18,8 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a PhD student at at [EPFL](https://www.epfl.ch/en/) (Swiss Federal Institute of Technology in Lausanne), under the supervision of Prof. Pascal Frossard. My research interests cover improving machine learning techniques in terms of  reliability, robustness and data efficiency.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before starting my PhD, I completed my MSc in Electrical Engineering with specialization in Data Science and Systems from [EPFL](https://www.epfl.ch/en/), and my BSc in Electronic Information Science and Technology from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). 
+
+I was also an intern in Oracle Labs in 2022 and Chinese Academy of Sciences in 2019.
