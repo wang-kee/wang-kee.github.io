@@ -21,3 +21,5 @@ I am a PhD student at at [EPFL](https://www.epfl.ch/en/) (Swiss Federal Institut
 Before starting my PhD, I completed my MSc in Electrical Engineering with specialization in Data Science and Systems from [EPFL](https://www.epfl.ch/en/), and my BSc in Electronic Information Science and Technology from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). 
 
 I was also an intern in [Oracle Labs](https://labs.oracle.com/pls/apex/r/labs/labs/intro) in 2022 and [Chinese Academy of Sciences](https://english.cas.cn/) in 2019.
+
+I am from Chengdu, Sichuan in Southwest China (where the pandas are from). In my free time, I like foodball, spicy food, running by Lake Geneva and skiing in Swiss Alps. 
