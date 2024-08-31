@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://wangke97.github.io/sitemap.xml
+Sitemap: https://wang-kee.github.io/sitemap.xml
