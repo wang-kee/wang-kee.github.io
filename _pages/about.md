@@ -15,6 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
+Hi! 👋
 
 I am a PhD student at at [EPFL](https://www.epfl.ch/en/) 🇨🇭 (Swiss Federal Institute of Technology in Lausanne), under the supervision of Prof. [Pascal Frossard](https://www.epfl.ch/labs/lts4/people/%20people-current/frossard/). 
 
