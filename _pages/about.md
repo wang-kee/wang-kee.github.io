@@ -24,4 +24,4 @@ Before starting my PhD, I completed my MSc from [EPFL](https://www.epfl.ch/en/),
 
 During my study, I was also an intern in [Oracle Labs](https://labs.oracle.com/pls/apex/r/labs/labs/intro) and [Google Deepmind](https://deepmind.google/).
 
-I am from [Chengdu, Sichuan](https://www.google.com/maps/place/Chengdu,+Sichuan,+China/@26.794477,101.8413637,4.53z/data=!4m6!3m5!1s0x36efc52300447721:0xb98652ce2e240e02!8m2!3d30.5722599!4d104.0665099!16zL20vMDE2djQ2?entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D) in Southwest China (where the pandas are from). In my free time, I like football ⚽️, spicy food 🌶️, hiking 🏔️ and skiing 🎿. 
+I am from [Chengdu, Sichuan](https://www.google.com/maps/place/Chengdu,+Sichuan,+China/@26.794477,101.8413637,4.53z/data=!4m6!3m5!1s0x36efc52300447721:0xb98652ce2e240e02!8m2!3d30.5722599!4d104.0665099!16zL20vMDE2djQ2?entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D) in Southwest China (hometown to the pandas 🐼). In my free time, I like football ⚽️, spicy food 🌶️, hiking 🏔️ and skiing 🎿. 
